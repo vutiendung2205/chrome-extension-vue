@@ -1,0 +1,14 @@
+{
+  "editor.formatOnSave": true,
+  "cSpell.words": [
+    "aliexpress",
+    "onepage",
+    "Pinterest",
+    "Poponedi",
+    "stackoverflow",
+    "sunsa"
+  ],
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  }
+}
